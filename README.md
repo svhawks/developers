@@ -10,3 +10,9 @@
 * Create a [github.com](https://github.com) account.
 * Create a [gitlab.com](https://gitlab.com) account.
 * Start to learn git http://rogerdudler.github.io/git-guide/
+
+## OS
+
+* We love to use `*nix` systems.
+* Mac Install https://github.com/sahin/mac-install
+* Ubuntu Install https://github.com/muhammet/ubuntu-install
