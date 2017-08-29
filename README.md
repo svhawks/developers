@@ -29,3 +29,4 @@
 ## Pair Coding
 
 * Share your terminal with someone https://github.com/gravitational/teleconsole
+* Install join.me https://join.me
