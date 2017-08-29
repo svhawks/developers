@@ -22,6 +22,10 @@
 
 * https://stackshare.io/
 
+## Basic Coding skill
+* Computer Science https://github.com/open-source-society/computer-science
+* Free code camp https://www.freecodecamp.org/
+
 ## Pair Coding
 
 * Share your terminal with someone https://github.com/gravitational/teleconsole
