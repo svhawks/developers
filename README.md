@@ -15,7 +15,7 @@
 
 * We love to use `*nix` systems.
 * Mac Install https://github.com/sahin/mac-install
-* Ubuntu Install https://github.com/muhammet/ubuntu-install
+* Ubuntu Install https://github.com/codefellows/code-101-prework/blob/master/prework/ubuntu/1_terminal.md
 * Some amazing apps. https://github.com/nikitavoloboev/my-mac-os
 
 ## Keep yourself updated
