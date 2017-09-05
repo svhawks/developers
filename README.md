@@ -30,3 +30,6 @@
 
 * Share your terminal with someone https://github.com/gravitational/teleconsole
 * Install join.me https://join.me
+
+## Every Programmer Should Know 🤔
+* https://github.com/mr-mig/every-programmer-should-know
