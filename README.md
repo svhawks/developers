@@ -21,6 +21,7 @@
 ## Keep yourself updated
 
 * https://stackshare.io/
+* https://github.com/sahin/Feedly-by-Sahin
 
 ## Basic Coding skill
 * Computer Science https://github.com/open-source-society/computer-science
