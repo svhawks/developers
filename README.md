@@ -27,6 +27,9 @@
 * Computer Science https://github.com/open-source-society/computer-science
 * Free code camp https://www.freecodecamp.org/
 
+## Getting prepared for our interview process
+* Tech Interview Handbook https://github.com/yangshun/tech-interview-handbook
+
 ## Pair Coding
 
 * Share your terminal with someone https://github.com/gravitational/teleconsole
