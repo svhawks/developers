@@ -26,6 +26,7 @@
 ## Basic Coding skill
 * Computer Science https://github.com/open-source-society/computer-science
 * Free code camp https://www.freecodecamp.org/
+* Enlight https://tryenlight.github.io/
 
 ## Getting prepared for our interview process
 * Tech Interview Handbook https://github.com/yangshun/tech-interview-handbook
