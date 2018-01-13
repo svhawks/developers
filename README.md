@@ -6,6 +6,10 @@
 * Force your favorite browser to use `google.com` instead of country specific version (`google.com.br`, `google.com.tr`). 
 * Do not search in your language, always search in `English`.
 
+## Roadmap
+
+* developer-roadmap [https://github.com/kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
 ## Git
 * Create a [github.com](https://github.com) account.
 * Create a [gitlab.com](https://gitlab.com) account.
@@ -38,3 +42,6 @@
 
 ## Every Programmer Should Know 🤔
 * https://github.com/mr-mig/every-programmer-should-know
+
+## Tutorials
+* Find the Best programming Courses & Tutorials [https://hackr.io/](https://hackr.io/)
