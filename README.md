@@ -45,3 +45,9 @@
 
 ## Tutorials
 * Find the Best programming Courses & Tutorials [https://hackr.io/](https://hackr.io/)
+
+## Preparing for Interviews
+
+* [Backend Developer](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily)
+
+* [Front End Developer](https://github.com/yangshun/front-end-interview-handbook?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily)
