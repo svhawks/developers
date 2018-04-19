@@ -27,13 +27,14 @@
 * Stackshare https://stackshare.io/
 * Feedly by Sahin https://github.com/sahin/Feedly-by-Sahin
 
-## Basic Coding skill
+## Basic Coding Skills
 * Computer Science https://github.com/open-source-society/computer-science
 * Free code camp https://www.freecodecamp.org/
 * Enlight https://tryenlight.github.io/
 
-## Getting prepared for our interview process
+## Getting Prepared For Our Interview Process
 * Tech Interview Handbook https://github.com/yangshun/tech-interview-handbook
+* [Backend Developer](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily)
 
 ## Pair Coding
 
@@ -45,10 +46,6 @@
 
 ## Tutorials
 * Find the Best programming Courses & Tutorials [https://hackr.io/](https://hackr.io/)
-
-## Preparing for Interviews
-
-* [Backend Developer](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily)
 
 * [Front End Developer](https://github.com/yangshun/front-end-interview-handbook?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily)
 
