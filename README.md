@@ -51,3 +51,7 @@
 * [Backend Developer](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily)
 
 * [Front End Developer](https://github.com/yangshun/front-end-interview-handbook?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily)
+
+## Typing
+* https://www.ratatype.com/typing-test/test/
+* https://blog.codinghorror.com/we-are-typists-first-programmers-second/
