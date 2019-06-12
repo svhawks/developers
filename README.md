@@ -7,6 +7,7 @@
 ## How to search?
 
 * Force your favorite browser to use `google.com` instead of country specific version (`google.com.br`, `google.com.tr`). 
+* Also SELECT YOUR LOCATION AS UNITED STATES
 * Do not search in your language, always search in `English`.
 
 ## Roadmap
