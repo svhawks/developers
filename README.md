@@ -31,6 +31,9 @@
 * Stackshare https://stackshare.io/
 * Feedly by Sahin https://github.com/sahin/Feedly-by-Sahin
 
+## Computer Science
+* visualising data structures and algorithms through animation https://visualgo.net/en
+
 ## Basic Coding Skills
 * Computer Science https://github.com/open-source-society/computer-science
 * Free code camp https://www.freecodecamp.org/
